@@ -1,0 +1,123 @@
+.forms{
+    background-color:#c7d8b7;
+    height: 600px;
+    width: 400px;
+    border-radius: 5px;
+}
+
+.your-details{
+    margin-left: 35px;
+    
+}
+.name{
+    background-color: #a9c083;
+    width: 300px;
+    border: solid white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px
+    
+}
+.email{
+    background-color: #a9c083;
+    width: 300px;
+    border: solid white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px
+}
+.ints{
+    margin-left: 34px;
+    border-color: bisque;
+    border-radius: 5px;
+}
+body{
+    margin-left: 450px;
+}
+
+.delivery-adress{
+    margin-left: 35px;
+}
+.number{
+    background-color: #a9c083;
+    width: 300px;
+    border: solid white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px
+}
+.name-on{
+   margin-left: 5px;
+    border-color:bisque;
+    border-radius: 5px;
+}
+.card{
+    margin-left: 35px;
+    border-color: bisque;
+    border-radius: 5px;
+}
+
+.post{
+    background-color: #a9c083;
+    width: 300px;
+    border: solid white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px
+
+}
+.address{
+    background-color:#a9c083;
+    width: 300px;
+    border: solid white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px
+}
+.bold{
+    margin-left: 35px;
+}
+.card-type{
+    background-color:#a9c083;
+    width: 300px;
+    border: solid white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px
+}
+
+.security{
+    background-color: #a9c083;
+    width: 300px;
+    border: solid white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px
+   
+}
+.cardno{
+    background-color: #a9c083;
+    width: 300px;
+    border: solid white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px
+}
+.name-card{
+    background-color:#a9c083;
+    width: 300px;
+    border: solid white;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px
+}
+/* #a3b484  for inner */

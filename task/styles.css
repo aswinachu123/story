@@ -1,0 +1,55 @@
+.logo{
+     float: left; 
+    margin-right: 23px;
+}
+
+.page1{
+    background-color: darksalmon;
+}
+
+.text1{
+    font-style: bold;
+    color: blue;
+}
+
+.image2{
+    float: right;
+}
+.bottom-container{
+    display: flex;
+    gap: 20px;
+}
+.first-container{
+    margin-bottom: 50px;
+}
+
+.word{
+     line-height: 27px;;
+}
+
+.football{
+    display: flex;
+}
+.word1{
+    margin-left: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.phone{
+    margin-left: 600px;
+}
+
+.mail{
+    margin-left: 450px;
+
+}
+.tab{
+    border-collapse:collapse; 
+}
+th, td{
+    border: 2px solid rgb(88, 13, 13);
+}
+.image3{
+    padding-top: 20px;
+}
+/* ///wssss */
+/* ssndkijskdhidhks */
